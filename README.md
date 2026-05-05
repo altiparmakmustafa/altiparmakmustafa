@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi, I am Mustafa 👋
+I’m currently learning software 🌱
 
 <!--
 **altiparmakmustafa/altiparmakmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
